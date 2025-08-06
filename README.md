@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Fatima! 👋💻
 
-<!--
-**amitaf05/amitaf05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently studying **Computer Science and Engineering** at the *Engineering School of Computer Sciences and Digital Technologies*, Algeria <br/>
+- 🤖 I’ve been an **AI enthusiast** since high school <br/>
+- 💻 I’m a **self-taught Front-End Developer** <br/>
+- 🐍 I’ve been a **self-taught Python programmer** since high school <br/>
+- 🎨 I’m also a **UI/UX and Graphic Designer** <br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-aliche-695482304/)
+
+---
+
+### 📊 GitHub Stats:
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitaf05&show_icons=true&theme=radical)
+
